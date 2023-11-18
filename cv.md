@@ -1,8 +1,8 @@
 # Malkina Tatiana
 ## Contact Information
-- Email: malkinauf@gmail.com
-- GitHub: https://github.com/malkinauf
-- Discord: @malkinauf
+**Email:** *malkinauf@gmail.com*  
+**GitHub:** https://github.com/malkinauf  
+**Discord:** @malkinauf
 
 ## Brief Self-Introduction
 
@@ -14,9 +14,11 @@
 - Git, GitHub
 
 ## Code Example
+```javascript
 function multiply(a, b){
-  return a * b
+ return a * b;
 }
+```
 
 ## Education
 ### [Current Degree Pursued]
